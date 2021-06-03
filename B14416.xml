@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true discovery of those treasons of which Geilis Van Ledenberch was a practiser against the generall states of the Vnited Netherland Provinces through the aduise, and assistance of Iohn van Olden Barneuelt. And for which (after arraignment, sentence and iudgement) execution was done on the dead body of the said Ledenberch, after he had most inhumanly murthered himselfe, through the guiltines, and horror of his conscience. As also a copy of Barneuelts last letter to his wife, and children.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14416</idno><idno type="EEBO-CITATION">99836130</idno>
+  <idno type="VID">176321</idno>
+  <idno type="EEBO-PROQUEST">2240869373</idno>
+  <idno type="STC">STC 15352</idno>
+  <idno type="STC">ESTC S100285</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99836130e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1315:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true discovery of those treasons of which Geilis Van Ledenberch was a practiser against the generall states of the Vnited Netherland Provinces through the aduise, and assistance of Iohn van Olden Barneuelt. And for which (after arraignment, sentence and iudgement) execution was done on the dead body of the said Ledenberch, after he had most inhumanly murthered himselfe, through the guiltines, and horror of his conscience. As also a copy of Barneuelts last letter to his wife, and children.</title>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Griffin for N. Butter and are to be sold at his shop neere Saint Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A²  B-D⁴ E² .</note>
+                  <note>Running title reads: A discouery of the treasons of Van Ledenberch.</note>
+                  <note>Identified as STC 15352a on UMI microfilm.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ledenberg, Gilles van, ca. 1548-1618.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176321:1"/>
+            <pb facs="tcp:176321:1"/>
+            <p>A TRVE DISCOVERY OF THOSE TREASONS of which <hi>Geilis Ʋan Ledenberch</hi> was a Practiser against the <hi>Generall States</hi> of the vnited Netherland Prouinces; Through the Aduise, and Assistance of <hi>Iohn van Olden Barneuelt.</hi> And For which (after Arraignment, Sentence, and Iudgement) execution was done on the dead body of the said LEDENBERCH, after he had most inhumanly mur<g ref="char:EOLhyphen"/>thered himselfe, through the guiltines, and horror of his conscience. As also a Copie of <hi>Barneuelts</hi> last Letter to his Wife, and Children.</p>
+            <p>LONDON Printed by <hi>E. Griffin</hi> for <hi>N. Butter</hi> and are to be sold at his shop neere Saint Austins gate. 1619.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:176321:2"/>
+            <pb facs="tcp:176321:2"/>
+            <head>THE PRINTERS PRIVILEDGE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He States generall of the vnited Netherland Prouinces, haue granted and giuen licence vnto <hi>Hillebrant Iacobson</hi> sworne Printer vnto the said States in generall, and to the States of <hi>Holland</hi> in particular, and by these presents giue and grant licence vnto him, that he onely for the space of two yeares next ensuing shall and may print and giue forth in Dutch, the iudgement by the Iudges appointed thereunto by the said States giuen vpon <hi>Geilis van Ledenberch,</hi> sometime Secretarie to the States of <hi>Vtrecht,</hi> and executed vpon his dead body on the 15. of <hi>May,</hi> 1619. <hi>stilo nouo.</hi> Pro<g ref="char:EOLhyphen"/>hibiting all and euery Printer in generall and particu<g ref="char:EOLhyphen"/>lar, as also all the inhabitants of the said vnited Pro<g ref="char:EOLhyphen"/>uinces, to print or cause to be printed, or sold, the said Sentence, or Iudgement within the time afore<g ref="char:EOLhyphen"/>said,
+<pb facs="tcp:176321:3"/> vpon paine of the losse of the said bookes; and further of the penaltie of 300. <hi>carolus gueldens;</hi> The one third part thereof to be giuen to the Officer that shall make seizure of the same; the second third part to the poore; and the last third part to the vse of the said <hi>Hillebrant Iacobson.</hi>
+            </p>
+            <closer>
+               <dateline>Giuen at the assembly of the said States generall in <hi>Grauen Hage</hi>
+                  <date>the 16. of <hi>May,</hi> anno 1619. <hi>Stilo nouo.</hi>
+                  </date>
+               </dateline>
+               <signed>I: van DORT v': By order from the said States in generall. C: AERSSENS.</signed>
+            </closer>
+            <postscript>
+               <p>No Copies hereof shall be authentique but onely those that are printed by the said <hi>Hillebrant Iacobson.</hi>
+               </p>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176321:3"/>
+            <div type="exposition">
+               <head>THE CONFESSION, Arraignment, and Iudgement of <hi>Gielis van Ledenberch</hi> sometimes <hi>Secre<g ref="char:EOLhyphen"/>tarie</hi> to the <hi>States</hi> of VTRECHT: Together with the Execution done on his dead body, vpon the 15. of <hi>May,</hi> anno 1619. <hi>Stilo Nouo.</hi>
+               </head>
+               <div type="introduction">
+                  <p>
+                     <seg rend="decorInit">G</seg>IELIS van LEDEN<g ref="char:EOLhyphen"/>BERCH sometime <hi>Secretarie</hi> to the <hi>States</hi> of VTRECHT, be<g ref="char:EOLhyphen"/>ing committed to prison by the Gene<g ref="char:EOLhyphen"/>rall <hi>States</hi> of the vni<g ref="char:EOLhyphen"/>ted Netherland Pro<g ref="char:EOLhyphen"/>uinces, without racke or any bodily tor<g ref="char:EOLhyphen"/>ments, confessed vnto the Commissioners thereunto appointed by the said Generall <hi>States,</hi> (as the Iudges by the said <hi>States</hi> there<g ref="char:EOLhyphen"/>unto ordained, for the deciding of the said
+<pb facs="tcp:176321:4"/> Processe) by his said confession and other<g ref="char:EOLhyphen"/>wise found to be true.</p>
+               </div>
+               <div n="1" type="treason">
+                  <head>1</head>
+                  <p>That notwithstanding that the vnited Netherland Prouinces, by diuers and seue<g ref="char:EOLhyphen"/>rall treaties, agreements, conclusions, in<g ref="char:EOLhyphen"/>structions, and resolutions, were bound with body, life, and goods to maintaine and vphold the reformed religion by them re<g ref="char:EOLhyphen"/>ceiued, and preached within the said vnited Prouinces; and not to alter the same, nor cause or suffer any alteration therein to be made: He the said <hi>Ledenberch,</hi> sought to doe the contrarie, and to that end induced strange, and most dangerous maximes for the State of the Land, and withall maintain<g ref="char:EOLhyphen"/>ed that each particular Prouince, had power and authority of it selfe in their seuerall Pro<g ref="char:EOLhyphen"/>uinces, at their pleasure, to exercise and vse what religion they will, without any con<g ref="char:EOLhyphen"/>sent or authoritie from the other Prouinces in generall, and vnder pretence thereof, sought to perturbe and vex the true reform<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:176321:4"/> Church, and to that end inuented the meanes, that diuers new and strange opini<g ref="char:EOLhyphen"/>ons, against the order of the reformed reli<g ref="char:EOLhyphen"/>gion, were brought into the same, and ma<g ref="char:EOLhyphen"/>ny rigorous resolutions executed, and put in practise against those of the true reformed religion, that went and exercised the same their religion, in publique Churches with<g ref="char:EOLhyphen"/>out the Towne and Prouince of Vtrecht, and to that end he the said <hi>Ledenberch,</hi> then being Secretarie to the States of Vtrecht, (hauing nothing to doe with the politique State of the Towne) caused a sharpe and bitter Proclamation or Edict (contrarie to his vocation) to be made, and in the name of the Magistrate of Vtrecht to be publish<g ref="char:EOLhyphen"/>ed, against those of the reformed religion. Against whom he proceeded in such sharpe and bitter manner, that he tearmed them to be mutinous and factious persons, and their assemblies to bee riotous meetings. And notwithstanding that the KING of Great Britaine, and the most part of the Prouinces, and members of the vnitie, (for the extir<g ref="char:EOLhyphen"/>ping of the differences in religion) thought
+<pb facs="tcp:176321:5"/> it fit and necessarie to call and summon a nationall Synode, which accordingly was by the said States generall published and proclaimed; He deuised the meanes, that the States of the Prouince of Vtrecht, refused to consent and agree thereunto. And per<g ref="char:EOLhyphen"/>ceiuing that he could not vphold and main<g ref="char:EOLhyphen"/>taine his innouation of religion, without that he and his complices armed themselues against the vnited States, because the ordina<g ref="char:EOLhyphen"/>rie Souldiers that then lay in the garrisons, were bound by oath, onely to bee true vn<g ref="char:EOLhyphen"/>to those that maintained and vpheld the true reformed religion, and that diuers Townes in Holland agreeing together with him, and others of the gouernment of V<g ref="char:EOLhyphen"/>trecht, for the maintenance of the innouati<g ref="char:EOLhyphen"/>on of religion, had consented vnto a reso<g ref="char:EOLhyphen"/>lute determination dated the 4. of <hi>August</hi> 1617. by the power and force thereof to arme and strengthen themselues with new companies of Souldiers, as also that <hi>Iohn van olden Barneuelt</hi> as then Aduocate or Coun<g ref="char:EOLhyphen"/>cellor of Holland, at that time was come to Vtrecht; He the said Ledenberch, held cer<g ref="char:EOLhyphen"/>taine
+<pb facs="tcp:176321:5"/> secret conferences with the said Barne<g ref="char:EOLhyphen"/>uelt, and thereby agreed presently to take vp new companies of Souldiers in Vtrecht, at the first mouing the same vnto some of his particular Confederates, and after in the Counsell-chamber of the said towne, before and among some of the gouernment there<g ref="char:EOLhyphen"/>of by him, of his owne authority warned to appeare there at an vnaccustomed time, with whom he debated and determined thereup<g ref="char:EOLhyphen"/>on without the knowledge of others the Councell of the said Towne, whom hee distrusted, and against whom hee in the said assembly alledged certaine causes and reasons of suspition to be had of them, na<g ref="char:EOLhyphen"/>ming in the register of the said secret assem<g ref="char:EOLhyphen"/>bly some to be present, that were not there, and omitting to name others, that then per<g ref="char:EOLhyphen"/>sonally appeared. And when the Bourghe<g ref="char:EOLhyphen"/>masters of Vtrecht, (who by no meanes would agree to the taking vp and raising of new Souldiers, without the consent of the States) sought to disswade them from it, with a very impertinent demaund, (whe<g ref="char:EOLhyphen"/>ther they would cause the Towne bell to
+<pb facs="tcp:176321:6"/> that end to be rung, and put it to the popu<g ref="char:EOLhyphen"/>lar voice) he found the meanes, that with<g ref="char:EOLhyphen"/>out any further deliberation, onely by the States within the towne, it was decreed and determined, that 600. new Souldiers should be taken vp, there within the towne of V<g ref="char:EOLhyphen"/>trecht, in six companies, which was likewise put in effect, without once giuing any intel<g ref="char:EOLhyphen"/>ligence thereof vnto the Generall States, or his Excellencie as their State-holder and Captaine generall, nor yet ioyning the said new Souldiers then taken vp, (by the aduice and counsell of the said Barneuelt) by oath with the garrisons then in seruice of the States, but binding them by a particular oath to be obedient onely to the States of Vtrecht, and to imploy themselues in the seruice (both within and without Vtrecht, as well by water as by land) of the said States of Vtrecht, or of their good neighbours, friends, and complices, and not to respect or regard any other commaundement, then that onely which should be giuen them by the said States of Vtrecht. Not regarding nor respecting that the towne of Vtrecht
+<pb facs="tcp:176321:6"/> euer since <hi>anno</hi> 1610. was still burthened with a great garrison of the generall States Souldiers, and very well furnished and pro<g ref="char:EOLhyphen"/>uided against all popular troubles and vp<g ref="char:EOLhyphen"/>rores: And further that the security of the said towne by order from the counsell of Estate, in the same yeare was remitted and reserued to the generalitie; Hee the said <hi>Le<g ref="char:EOLhyphen"/>denberch</hi> himselfe acknowledging and confessing, that the said leuying of Soul<g ref="char:EOLhyphen"/>diers, was made against the rest of the vnited Prouinces whom they held to be their Ad<g ref="char:EOLhyphen"/>uersaries.</p>
+               </div>
+               <div n="2" type="treason">
+                  <head>2</head>
+                  <p>That the better to moue the said States, to the willing and readie raising of the said Souldiers he made them beleeue and per<g ref="char:EOLhyphen"/>swaded them, that the charge thereof should be borne by the generality, or for want ther<g ref="char:EOLhyphen"/>of, that some of the ordinarie Souldiers vn<g ref="char:EOLhyphen"/>der the States generall should not be paid their wages.</p>
+               </div>
+               <div n="3" type="treason">
+                  <pb facs="tcp:176321:7"/>
+                  <head>3</head>
+                  <p>And when, the generall States, by letters sent vnto the States of Vtrecht writ vnto them, of the vnlawfull, and disorderly, and suspitious manner of taking, and raising of those new Souldiers: He, by the aduice of the said Barneuelt, vpon the 6. of <hi>September</hi> 1617. made and drew an answere vnto them in no sort agreeing with that by the which the new Souldiers were leuied.</p>
+               </div>
+               <div n="4" type="treason">
+                  <head>4</head>
+                  <p>And although the said States generall once againe expresly sent to Vtrecht, to signi<g ref="char:EOLhyphen"/>fie their dislikes and opinions of the afore<g ref="char:EOLhyphen"/>said vnreasonable, and suspitious raising of new Souldiers, and to take away and auoide all manner of pretences, to tell them, that they should not without their consents lessen the garrison there, but rather (if need were) to increase the same, at their owne discretion, he found meanes, that the States
+<pb facs="tcp:176321:7"/> of Vtrecht refused their said aduise, and still kept and maintained the new Souldiers, to the great charge and expence of the said Pro<g ref="char:EOLhyphen"/>uince.</p>
+               </div>
+               <div n="5" type="treason">
+                  <head>5</head>
+                  <p>And hauing in this manner brought the Sates of Vtrecht to vndertake warre against the rest of the vnited Prouinces, and his Ex<g ref="char:EOLhyphen"/>cellencie, he according to the foresaid aduise and conference, with the said <hi>Barneuelt,</hi> dealt in such manner, that vpon report made that his Excellencie, was to come, and to passe by Vtrecht, resolued to write a letter vnto his said Excellencie, thereby, (notwithstanding the contradiction of some of the States of the towne and that he was their State hol<g ref="char:EOLhyphen"/>der,) desiring him not to come thither, but to take an other way, with aduise to wish him to follow their counsell therein: pen<g ref="char:EOLhyphen"/>ning the letter in such manner, that his Ex<g ref="char:EOLhyphen"/>cellencie therby was taxed to be the Fauorer of those that went about to make popular cōmotion: by that meanes, the better to ani<g ref="char:EOLhyphen"/>mate
+<pb facs="tcp:176321:8"/> the States of Vtrecht against his said Excellencie.</p>
+               </div>
+               <div n="6" type="treason">
+                  <head>6</head>
+                  <p>That he was the cause that the said letter was kept a certaine time at the <hi>Hage</hi> by <hi>Monsieur Moersberghen,</hi> and other Committies there, vnsealed, and many times renued, vn<g ref="char:EOLhyphen"/>till that in <hi>March</hi> 1618. his Excellencie was to go to the assembly in <hi>Gelderland,</hi> and then the said letter was againe renued, and sealed vp, and that one copie thereof was sent to the Deputies then resident in the <hi>Hage,</hi> to be deliuered to his Excellencie if hee were not gone from thence, and that the like letter was deliuered vnto his said Excellencie at <hi>Leyderdorp,</hi> by <hi>Ter Stege,</hi> Clarke to the States of Vtrecht: And fearing that his Excellencie should neuerthelesse come thither, he deter<g ref="char:EOLhyphen"/>mined, to send certaine Deptities to the same end to meete with him in the way, to di<g ref="char:EOLhyphen"/>uert him, or else that the gates should be shut against him. And lastly, that if hee entred into the towne, he should be so well garded
+<pb facs="tcp:176321:8"/> with shot, that none of the true reformed religion, should haue accesse vnto him, hau<g ref="char:EOLhyphen"/>ing procured so much that at the same time it was resolued, and after effected, that 300. new souldiers more were there raised and in<g ref="char:EOLhyphen"/>tertained.</p>
+               </div>
+               <div n="7" type="treason">
+                  <head>7</head>
+                  <p>Then he also, of his owne authoritie, sent watches out to <hi>Hinderdame</hi> and other places, there to arest and stay all Souldiers that were at his Excellencies commaund that should passe there by, and not suffer them to go that way: and also sent some to <hi>Amersforth,</hi> with charge to enquire when his Excellen<g ref="char:EOLhyphen"/>cies troupe of Horse-men, lying there in garrison should come thither.</p>
+               </div>
+               <div n="8" type="treason">
+                  <head>8</head>
+                  <p>That also in the towne of Vtrecht he ob<g ref="char:EOLhyphen"/>tained liberty to haue 4. peeces of great Or<g ref="char:EOLhyphen"/>dinance ready, to vse them when occasion serued, thereby to animate the said States of Vtrecht to resistance.</p>
+               </div>
+               <div n="9" type="treason">
+                  <pb facs="tcp:176321:9"/>
+                  <head>9</head>
+                  <p>That certaine Propositions or Articles, made by the Magistrates of <hi>Hoerlem,</hi> were sent by Committies from the States of V<g ref="char:EOLhyphen"/>trecht, to the said <hi>Ledenberch,</hi> at the assemblie of the States of <hi>Holland</hi> and <hi>West freseland,</hi> &amp; by him there presented, where by the said States, and others Deputies of townes they were approued and allowed, and afterward by letters from the said Deputies it was or<g ref="char:EOLhyphen"/>dered, that their deliberation should be tran<g ref="char:EOLhyphen"/>slated into <hi>French,</hi> and secretly sent into <hi>France,</hi> and other places out of the land; And that the same should import a new bond of vnitie, to be made and kept among the good and assured townes, which should be drawn into a contract in writing. And that the meaning of the said townes was, to draw other good townes into the same, all which their proceedings in their contract in that case, were tearmed fearefull extreamities, that might be procured by those of the true religion, he the said Prisoner keeping all
+<pb facs="tcp:176321:9"/> these things secret, and not (according to his dutie) once disclosed the same.</p>
+               </div>
+               <div n="10" type="treason">
+                  <head>10</head>
+                  <p>And when he vnderstood, and had intel<g ref="char:EOLhyphen"/>ligence, that the eight vnited townes in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> (the better to vnite themselues, and to secure their state against the other vnited Prouinces, and his Excellencie, and so to make the greater resistance,) had made a cer<g ref="char:EOLhyphen"/>taine seuere and earnest Procuration, or act of league and sent it to their Deputies; He found the meanes, that the greatest number of the two third parts of the States of Vtrecht by voices agreed vpon the like procuration or act of league, and the other third part of them by report onely, and after drew and made the same; and gaue it to <hi>Mon<g ref="char:EOLhyphen"/>sieur Moersberghen</hi> going to the <hi>Hage,</hi> as if it had beene absolutely consented vnto, and agreed vpon by all the members of the State, thereby, better to moue and incourage the States of Vtrecht to the aforesaid resistance. But the Magistrates of Vtrecht perceiuing
+<pb facs="tcp:176321:10"/> their intent, expresly limited their commissi<g ref="char:EOLhyphen"/>on, with this clause, that it should not be v<g ref="char:EOLhyphen"/>sed, for the furtherance of present extremi<g ref="char:EOLhyphen"/>ties, or for the making of new combinati<g ref="char:EOLhyphen"/>ons or vnities.</p>
+               </div>
+               <div n="11" type="treason">
+                  <head>11</head>
+                  <p>And for that the maintaining of new companies of souldiers, tended to the soak<g ref="char:EOLhyphen"/>ing and drawing drie of the meanes and treasure of the Prouince of Vtrecht, and the confusion of their State: And that thereup<g ref="char:EOLhyphen"/>on the said States were resolued, to send a good number of Deputies, (and among the rest the said <hi>Ledenberch</hi>) to the <hi>Hage,</hi> to giue his Excellency an ouerture, and to shew him that the said States were content and willing to cashere the said new companies of Soul<g ref="char:EOLhyphen"/>diers: He presently began to labour and to worke against the said Commission; first going to the said <hi>Barneuelt,</hi> and consulted with him how that that their Commission might be kept close and not opened: And after went to <hi>Vtenbogaert,</hi> where he instructed
+<pb facs="tcp:176321:10"/>
+                     <hi>Haen</hi> the Pensionarie, <hi>Hogerbeth,</hi> and <hi>Grotius,</hi> by diuers arguments and reasons how to perswade the other Deputies of Vtrecht not to open their said Commission. Yet desiring that the same should onely be kept secret to his fellow Committies and himselfe, mak<g ref="char:EOLhyphen"/>ing as though hee knew nothing thereof. Whereby vpon the 25. of <hi>Iune</hi> 1618. <hi>Stilo ve<g ref="char:EOLhyphen"/>teri,</hi> at <hi>Daniel Tresels</hi> house, it being in questi<g ref="char:EOLhyphen"/>on there, the Pensionarie aforesaid vsed the said reasons, and perswasions, thereby to moue the rest of the Commissioners to grant thereunto, to whom hee gaue such an an<g ref="char:EOLhyphen"/>swere, that it seemed rather to tend vnto the hinderance then furtherance of their afore<g ref="char:EOLhyphen"/>said Commission: By which meanes he per<g ref="char:EOLhyphen"/>swaded the better part of his fellow Com<g ref="char:EOLhyphen"/>missioners so farre, that they also (notwith<g ref="char:EOLhyphen"/>standing further reiteration made by the a<g ref="char:EOLhyphen"/>foresaid States of Vtrecht to the contrarie) did not open their Commission; but with<g ref="char:EOLhyphen"/>out doing any thing therein, went backe a<g ref="char:EOLhyphen"/>gaine to Vtrecht, to the great hinderance of the States of the Land, and specially those of the towne and territorie of Vtrecht; onely
+<pb facs="tcp:176321:11"/> vpon promise and hope of assistance made and giuen vnto them by the aforesaid <hi>Barne<g ref="char:EOLhyphen"/>uelt</hi> and his aduise, that they should be con<g ref="char:EOLhyphen"/>stant and not once grant nor giue consent to the Synode, nor seeke to discharge their new Souldiers, but rather to continue them still: and withall to haue a care of their watch, and the keeping of their gates for the safetie of their towne.</p>
+               </div>
+               <div n="12" type="treason">
+                  <head>12</head>
+                  <p>That he rather sought to follow that ad<g ref="char:EOLhyphen"/>uice, then to fulfill and effect the Commissi<g ref="char:EOLhyphen"/>on of his principall Commanders, and yet acknowledged, that he perceiued that there was some sinister and bad meaning, and that he very well knew, that the said <hi>Barne<g ref="char:EOLhyphen"/>uelt,</hi> spake much to the preiudice of his Ex<g ref="char:EOLhyphen"/>cellencie, as also that he tooke too much vp<g ref="char:EOLhyphen"/>on him, but yet that by his great authoritie he ouer-ruld him.</p>
+               </div>
+               <div n="13" type="treason">
+                  <pb facs="tcp:176321:11"/>
+                  <head>13</head>
+                  <p>That he also with others determined vp<g ref="char:EOLhyphen"/>on strengthning of certaine Forts &amp; houses in the Prouince of Vtrecht, as the house of <hi>Duersteed,</hi> the house of <hi>Abconde,</hi> and of <hi>Eem,</hi> as also of the towne of <hi>Woerden</hi> out of the Pro<g ref="char:EOLhyphen"/>uince of Vtrecht, lying in <hi>Holland.</hi>
+                  </p>
+               </div>
+               <div n="14" type="treason">
+                  <head>14</head>
+                  <p>That he did not as he ought to haue done, truely open and declare, the aduises by <hi>Mon<g ref="char:EOLhyphen"/>sieur van Moersberghen</hi> sent vnto him from the <hi>Hage,</hi> to the States of Vtrecht, but kept them secret to himselfe.</p>
+               </div>
+               <div n="15" type="treason">
+                  <head>15</head>
+                  <p>And when his Excellencie with diuers Committies of the generalitie vpon the 23. of <hi>Iuly</hi> 1618. were desired to go to Vtrecht, with Commission there to moue the States of Vtrecht, to discharge their new souldiers,
+<pb facs="tcp:176321:12"/> and to the consenting to the Synode, or to cause the said cashering of the Souldiers to be done, and those of Vtrecht were aduer<g ref="char:EOLhyphen"/>tised thereof, he found meanes to get <hi>Mon<g ref="char:EOLhyphen"/>sieur van Moersberghen</hi> to bee sent vnto the <hi>Hage,</hi> from them of <hi>Holland,</hi> (following the aforesaid procuration) to seeke for counsell against his said Excellencie, and the Com<g ref="char:EOLhyphen"/>mitties for the generall States: although that before he could get to the <hi>Hage,</hi> the a<g ref="char:EOLhyphen"/>foresaid <hi>Barneuelt,</hi> contrarie to his allegi<g ref="char:EOLhyphen"/>ance, had in the name of the States of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> sent <hi>Hogerbeets</hi> the Pentionary, <hi>de Groot,</hi> and some others, to the same end: with whom the said <hi>Ledenberch</hi> hauing priuate conference, counselled them presently to craue audience, Giuing them aduice what they should propound, which was to moue them of Vtrecht to be of good courage, and that they should in the name of the States of <hi>Holland</hi> offer them present aide, and assistance both of men and meanes: which before the comming of his Excellencie and the Com<g ref="char:EOLhyphen"/>mitties thither, they did.</p>
+               </div>
+               <div n="16" type="treason">
+                  <pb facs="tcp:176321:12"/>
+                  <head>16</head>
+                  <p>And that when they were come to Vtrecht, and had made their said Cōmission known, he the said <hi>Ledenberch,</hi> for an answere to their proposition, would not acknowledge them to be Cōmitties sent from the general States, notwithstanding that in qualitie thereof they had deliuered their Commission to be seene, and made certaine speeches in open audience tending to the same end.</p>
+               </div>
+               <div n="17" type="treason">
+                  <head>17</head>
+                  <p>That purposely to hinder his Excellencie and the other Committies from effecting their Commission, he had secret conference with those that were sent out of <hi>Holland,</hi> to consult about the setting of the watch, for order to be taken that no other Souldiers should be brought into the towne: That the Artillery men should watch in the Towne house, that certaine places should be scized vpon and holden, whereby they might best
+<pb facs="tcp:176321:13"/> defend the States chamber, and the Towne house; as also, to hold the White Nunnes bridge strong, and to place certaine peeces of Ordinance vpon it, giuing Captaine <hi>Her<g ref="char:EOLhyphen"/>teuelt</hi> commaundement, ouer all the new Souldiers, with Commission to follow the commaundement of the chiefe Bourghe<g ref="char:EOLhyphen"/>master of Vtrecht, giuing forth, that if they that were sent out of <hi>Holland,</hi> could so bring it to passe, that the Companies lying in the towne, and vnder the Hollanders pay, would be quiet and stirre not, that they had taken such an order with their new Souldi<g ref="char:EOLhyphen"/>ers, that they would bring their purpose well to passe.</p>
+               </div>
+               <div n="18" type="treason">
+                  <head>18</head>
+                  <p>That when the said <hi>Herteuelt</hi> perceiuing that he should be employed against his Ex<g ref="char:EOLhyphen"/>cellencie, and the generall States, made dif<g ref="char:EOLhyphen"/>ficultie thereof, he the said <hi>Ledenberch</hi> in a se<g ref="char:EOLhyphen"/>cret assembly, holden in an extraordinarie place and at an vnconuenient time, told him that it was a point of faintnesse in him, and
+<pb facs="tcp:176321:13"/> that he should rather boldly enterprise the same, the better to moue others thereunto, and that if any Souldiers made difficultie to serue in that manner, that inquiry should be made of them, that for an example to others they might be punished.</p>
+               </div>
+               <div n="19" type="treason">
+                  <head>19</head>
+                  <p>That he also promised them, to continue their entertainment, and that if they were cashered, that he would bring them to an other place, where they should be intertain<g ref="char:EOLhyphen"/>ed, and yet he knew well, that such conti<g ref="char:EOLhyphen"/>nuance of those new Souldiers, tended to the vtter decreasing and consuming of the treasure of the vnited Prouinces.</p>
+               </div>
+               <div n="20" type="treason">
+                  <head>20</head>
+                  <p>That to make the said resistance firme, the day before the new Souldiers were cashered, he desired those that were sent out of <hi>Holland,</hi> to deliuer their letters which they had, in the name of the States of <hi>Holland</hi>
+                     <pb facs="tcp:176321:14"/> to the Commanders ouer the Souldiers that were in Vtrecht vnder the <hi>Hollanders</hi> pay; The contents thereof being, that the said Commanders, were bound and obliged to be faithfull, true, and obedient, to their Pay<g ref="char:EOLhyphen"/>masters, and the States of the respectiue Pro<g ref="char:EOLhyphen"/>uinces, wherein they were, or lay in garrison, and to aide and assist them in the maintain<g ref="char:EOLhyphen"/>ing and vpholding of all their resolutions, without doing, or suffering any thing to be done to the contrarie.</p>
+               </div>
+               <div n="21" type="treason">
+                  <head>21</head>
+                  <p>That to shew his great desire and readi<g ref="char:EOLhyphen"/>nesse, to the furtherance of the said resistance, vpon perswasion of some of them that came out of <hi>Holland,</hi> with all his might he with<g ref="char:EOLhyphen"/>stood, that they of Vtrecht should enter in<g ref="char:EOLhyphen"/>to no further dealing with his Excellencie, giuing forth, that the State of Vtrecht could not beare it. All which his proceedings ten<g ref="char:EOLhyphen"/>ded to no other end, then only to cut off all the waies and meanes of reformation, and in the meane time to stirre vp all the ordina<g ref="char:EOLhyphen"/>rie
+<pb facs="tcp:176321:14"/> Souldiers, the new companies, and the Artillery men of the Towne against the States generall and his Excellencie. Thereby to hinder and let the execution of their com<g ref="char:EOLhyphen"/>mission; and to annihilate their authoritie, so to finde the meanes to make the towne of Vtrecht a sink and puddle of bloud, to bring the whole State of the Land, and his Excel<g ref="char:EOLhyphen"/>lencie into vtter ruine, and destruction, and to open the doore vnto the breach of the vnitie made betweene the vnited Nether<g ref="char:EOLhyphen"/>land Prouinces. And after that the cashering of the souldiers was done, by his Excellencie, fearing that the ground, and intent of those bad proceedings might come to light, hee tooke the greatest part of the letters written vnto him by diuers Deputies of the States, out of the Office, and sent them to the said Deputies againe. And at last being apprehen<g ref="char:EOLhyphen"/>ded, fearing least hee should be compelled to discouer and disclose the ground thereof, and to shew the cause why such proceed<g ref="char:EOLhyphen"/>ings were in that sort vsed, and to what end the aforesaid designe should at last haue come, as also to shun the punishment which
+<pb facs="tcp:176321:15"/> he thereby had deserued, he purposed secret<g ref="char:EOLhyphen"/>ly to murther himselfe; And to that end, with premeditated courage, vpon the 17. of <hi>September</hi> 1618 <hi>Stilo veteri,</hi> he wrote a small letter in French with his owne hand, the contents thereof being, that to shun and pre<g ref="char:EOLhyphen"/>uent confrontings with his best friends, tor<g ref="char:EOLhyphen"/>ments, ignominious sentence, and confisca<g ref="char:EOLhyphen"/>tion of all his Lands and goods, he was de<g ref="char:EOLhyphen"/>termined to kill himselfe, giuing the letter to <hi>Ioost</hi> his sonne, that vnderstood no French, and as then was suffered to be with him to helpe him, and so that, and the next day making no shew at all of any bad intent, that way, betweene the 18. and 19. daies of <hi>September</hi> aforesaid, in the night he murther<g ref="char:EOLhyphen"/>ed himselfe, with a knife, some daies before laid purposely aside to that end, with two stabs in his belly, and cut off his — And for that all the actions aforesaid, manifestly tended to the ouerthrowing of the peace of the land, to breake the principall bond of vnitie, to stirre vp the members thereof vn<g ref="char:EOLhyphen"/>to dissention, among themselues, and so not tolerable, but worthily to be punished for
+<pb facs="tcp:176321:15"/> an example vnto others. The aforesaid Iudges, by ripe deliberation and good ad<g ref="char:EOLhyphen"/>uise, (hauing considered and well weighed all the circumstances and points of the mat<g ref="char:EOLhyphen"/>ter aforesaid,) In the behalfe of the States ge<g ref="char:EOLhyphen"/>nerall of the vnited Netherland Prouinces, declare and pronounce the aforesaid <hi>Gielis van Ledenberch</hi> for the same cause to haue de<g ref="char:EOLhyphen"/>serued death and losse of all his goods, com<g ref="char:EOLhyphen"/>manding and ordaining, that the dead body of the said <hi>Gielis</hi> should be laid in a coffin vp<g ref="char:EOLhyphen"/>on a hurdle, and drawne to the place of exe<g ref="char:EOLhyphen"/>cution without the <hi>Hage,</hi> and there to bee hangd vpon the Gallowes, declaring all his goods and lands to be confiscate.</p>
+               </div>
+               <closer>
+                  <dateline>Giuen by the said Iudges, in grauen <hi>Hage,</hi> and pro<g ref="char:EOLhyphen"/>nounced <date>the 15. of <hi>May, anno</hi> 1619.</date>
+                  </dateline>
+                  <signed>Vnder written By order of the Iudges aforesaid. <hi>Signed</hi> H. POTZ.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:176321:16"/>
+               <head>THE COPIE OF <hi>Barne<g ref="char:EOLhyphen"/>uelts</hi> last <hi>letter to his VVife and Children.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">V</seg>Ery louing Wife and Children, I draw neere vnto my end, I am by the mercy of God at peace; I hope that ye like<g ref="char:EOLhyphen"/>wise will be also, and endeauour to ouercome all by sincere loue, peace, and concord, which at this time, being my last praier, I am praying for withall feruencie. <hi>Iohn Francke,</hi> hath faith<g ref="char:EOLhyphen"/>fully serued me many yeares, as also in this my affli<g ref="char:EOLhyphen"/>ction, and will so continue with me till the end, he ought to be recommended, and either by your selues or some others aduanced to good condition: I pray you let it be so; I haue caused to beseech his Princely Ex<g ref="char:EOLhyphen"/>cellencie that he would be pleased to continue you my sonnes and children in his fauour: vnto which hee answered in generall tearmes, that so long as ye com<g ref="char:EOLhyphen"/>port
+<pb facs="tcp:176321:16"/> your selues well it shall be so; which I recom<g ref="char:EOLhyphen"/>mend vnto you earnestly, and commend ye all vnto Gods holy keeping: Kisse each other, and all my chil<g ref="char:EOLhyphen"/>drens children on my behalfe, as the last time; So fare ye well.</p>
+               <closer>
+                  <dateline>From my dolefull chamber <date>the 13. of <hi>May</hi> 1619.</date>
+                  </dateline>
+                  <signed> and was signed. <hi>John van Ouldenbarneuelt.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Giue <hi>Iohn Francke</hi> some thing in remembrance of mee.</p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
